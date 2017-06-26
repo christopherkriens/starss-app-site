@@ -1,5 +1,5 @@
 ## STARSS App Site
-App landing page for the STARSS iOS App
+App landing page for STARSS
 
 ## Source
-Built on [[I'm an inline-style link](https://www.google.com)](Bootstrap)
+Built on [Bootstrap](http://getbootstrap.com)
