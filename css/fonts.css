@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'lcarsregular';
+    src: url('../fonts/swiss911bt-ultracompressed-webfont.woff2') format('woff2'),
+         url('../fonts/swiss911bt-ultracompressed-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
