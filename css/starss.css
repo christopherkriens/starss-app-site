@@ -256,12 +256,12 @@ footer ul li a.active {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #222222;
+  background: #D60015;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #222222;
+  background: #D60015;
 }
 img::selection {
   color: white;
