@@ -13,11 +13,12 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #fdcc52;
+  color: #760015;
 }
 a:hover,
 a:focus {
   color: #D60015;
+  text-decoration: none;
 }
 h1,
 h4 {
